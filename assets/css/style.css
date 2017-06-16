@@ -9,7 +9,7 @@ background: linear-gradient(to bottom left,#4DAB7A , #BB6239 ); /* Standard synt
 
 }
 
-.Idioma h5{
+.Idioma h4{
 	color: white;
 }
 
@@ -23,6 +23,8 @@ background: linear-gradient(to bottom left,#4DAB7A , #BB6239 ); /* Standard synt
 	width: 30%;
 	margin-left: 330px;
 	margin-top: 70px;
+	height: 50px;
+
 }
 
 .contrasenia{
@@ -34,18 +36,24 @@ background: linear-gradient(to bottom left,#4DAB7A , #BB6239 ); /* Standard synt
 .boton{
 	width: 30%;
 	margin-left: 330px;
-	margin-top: 20px;
+	margin-top: 30px;
 	height: 30px;
+	background: linear-gradient(to bottom left,#4DAB7A , #BB6239 );
+	border: transparent;
+	height: 50px;
+	color: white;
 }
 
-.olvido h5{
-	margin-left: 300px;
-	margin-top: 20px;
+.olvido h4{
+	margin-left: 260px;
+	margin-top: 30px;
+	color: white;
 }
 
-.siguiente h5{
+.siguiente h4{
 	margin-left: 450px;
 	margin-top:5px;
+	color: white;
 }
 
 .icono hr{
@@ -54,7 +62,8 @@ background: linear-gradient(to bottom left,#4DAB7A , #BB6239 ); /* Standard synt
 }
 
 .icono{
-	margin-left: 250px;
+	margin-left: 270px;
+	color: white;
 }
 
 .facebook{
@@ -62,12 +71,14 @@ background: linear-gradient(to bottom left,#4DAB7A , #BB6239 ); /* Standard synt
 	margin-top: 15px;
 }
 
-.facebook h4{
+.facebook h3{
 	display: inline-block;
 	margin-left: 10px;
+	color: white
 }
 
-footer{
+.final{
 	margin-left: 360px;
-	margin-top: 100px;
+	margin-top: 380px;
+	color: white;
 }
