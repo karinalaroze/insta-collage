@@ -1,0 +1,73 @@
+ 
+ body{
+background: linear-gradient(to bottom left,#4DAB7A , #BB6239 ); /* Standard syntax */
+}
+
+.Idioma{
+	margin-left: 400px;
+	margin-top: 30px;
+
+}
+
+.Idioma h5{
+	color: white;
+}
+
+.logo1{
+	width: 40%;
+	margin-left: 300px;
+	margin-top: 100px;
+}
+
+.mail{
+	width: 30%;
+	margin-left: 330px;
+	margin-top: 70px;
+}
+
+.contrasenia{
+	width: 30%;
+	margin-left: 330px;
+	margin-top: 15px;
+}
+
+.boton{
+	width: 30%;
+	margin-left: 330px;
+	margin-top: 20px;
+	height: 30px;
+}
+
+.olvido h5{
+	margin-left: 300px;
+	margin-top: 20px;
+}
+
+.siguiente h5{
+	margin-left: 450px;
+	margin-top:5px;
+}
+
+.icono hr{
+	width: 200px;
+	display: inline-block;
+}
+
+.icono{
+	margin-left: 250px;
+}
+
+.facebook{
+	margin-left: 330px;
+	margin-top: 15px;
+}
+
+.facebook h4{
+	display: inline-block;
+	margin-left: 10px;
+}
+
+footer{
+	margin-left: 360px;
+	margin-top: 100px;
+}
